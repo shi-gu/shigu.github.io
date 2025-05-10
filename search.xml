@@ -2,6 +2,25 @@
 <search> 
   
   
+    
+    <entry>
+      <title>关于搭建blog的过程</title>
+      <link href="/2025/05/10/%E6%96%87%E7%AB%A0/"/>
+      <url>/2025/05/10/%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="搭建过程"><a href="#搭建过程" class="headerlink" title="搭建过程"></a>搭建过程</h1><p>网站运用的技术:代码托管:GitHub , Hexo框架 , butterfly主题 , 域名:阿里云 , 图床:阿里云OSS<br>5.9号我在小破站学习SSM时,偶然在评论区看到别人的博客网站,上面记录了学习笔记和过程,网站的风格深深吸引了我,<br>刚好我也学完了JavaWeb,就想自己也搭建一个博客网站(前端几乎没有什么基础,相当与零基础,所以有想要搭建博客的小伙伴,也可以跟着视频一起学习交流).<br>我耗时两天搭建了一个基础的网站页面,包括美化和功能的完善,由于我看的博客搭建视频时间有些久远了,所以说会遇到一些问题,包括一些功能或url无法使用.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> blog </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
   
   
 </search>
