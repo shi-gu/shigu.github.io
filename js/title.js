@@ -1,0 +1,1 @@
+var titleTime,OriginTitile=document.title;document.addEventListener("visibilitychange",(function(){document.hidden?(document.title="╰(°▽°)╯ 页面404",clearTimeout(titleTime)):(document.title="(✿◠‿◠)你回来啦！",titleTime=setTimeout((function(){document.title=OriginTitile}),2e3))}));
