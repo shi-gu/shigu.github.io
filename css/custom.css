@@ -498,3 +498,10 @@ h6::before {
 [data-theme="dark"] #welcome-info {
   background: #212121;
 }
+
+
+/* 加载动画 */
+.loading-img {
+  background: url(https://java-ai1815272.oss-cn-beijing.aliyuncs.com/Saved%20Pictures/b_db8e36298191acfa1a857fe609888dbc.jpg) no-repeat center center;
+  background-size: cover;
+}
